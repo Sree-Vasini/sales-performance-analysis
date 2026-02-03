@@ -44,4 +44,14 @@ python notebooks/01_sales_analysis.py
 The analysis generates:
 - Monthly revenue trend chart  
 - Revenue by category chart  
-- Top products summary  
+- Top products summary
+
+
+## 📊 Visual Results
+
+### Monthly Revenue Trend
+![monthly_revenue_trend](outputs/monthly_revenue_trend.png)
+
+### Revenue by Category
+![revenue_by_category](outputs/revenue_by_category.png)
+
